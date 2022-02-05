@@ -1,0 +1,8 @@
+Submission:
+- Project must be submiled within Week 3 class Hme.
+- When I download from your repo, the zip file should be named = “LastName_FirstInital_Project1.zip” 
+Folder contents:   - index.html
+- images folder
+- css folder
+- js folder
+- assets folder (everything you used in the creation of this project, design brief, design files) - includes folder
